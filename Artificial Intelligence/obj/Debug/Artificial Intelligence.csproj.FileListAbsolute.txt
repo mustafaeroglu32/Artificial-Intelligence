@@ -1,0 +1,9 @@
+C:\Users\Mustafa EROĞLU\source\repos\Artificial Intelligence\Artificial Intelligence\bin\Debug\Artificial Intelligence.exe.config
+C:\Users\Mustafa EROĞLU\source\repos\Artificial Intelligence\Artificial Intelligence\bin\Debug\Artificial Intelligence.exe
+C:\Users\Mustafa EROĞLU\source\repos\Artificial Intelligence\Artificial Intelligence\bin\Debug\Artificial Intelligence.pdb
+C:\Users\Mustafa EROĞLU\source\repos\Artificial Intelligence\Artificial Intelligence\obj\Debug\Artificial Intelligence.csprojAssemblyReference.cache
+C:\Users\Mustafa EROĞLU\source\repos\Artificial Intelligence\Artificial Intelligence\obj\Debug\Artificial_Intelligence.Form1.resources
+C:\Users\Mustafa EROĞLU\source\repos\Artificial Intelligence\Artificial Intelligence\obj\Debug\Artificial_Intelligence.Properties.Resources.resources
+C:\Users\Mustafa EROĞLU\source\repos\Artificial Intelligence\Artificial Intelligence\obj\Debug\Artificial Intelligence.csproj.GenerateResource.cache
+C:\Users\Mustafa EROĞLU\source\repos\Artificial Intelligence\Artificial Intelligence\obj\Debug\Artificial Intelligence.exe
+C:\Users\Mustafa EROĞLU\source\repos\Artificial Intelligence\Artificial Intelligence\obj\Debug\Artificial Intelligence.pdb
